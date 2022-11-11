@@ -1,0 +1,29 @@
+ISO3,Country,Residence Type,Service Type,Year,Coverage,Population,Service level
+GBR,United Kingdom of Great Britain and Northern Ireland,rural,Drinking water,2020,100,10927609,At least basic
+GBR,United Kingdom of Great Britain and Northern Ireland,urban,Drinking water,2020,100,56958400,At least basic
+GBR,United Kingdom of Great Britain and Northern Ireland,total,Sanitation,2020,1.0119,686941.07358,Basic service
+GBR,United Kingdom of Great Britain and Northern Ireland,rural,Sanitation,2020,5.8985,644565.08724,Basic service
+GBR,United Kingdom of Great Britain and Northern Ireland,urban,Sanitation,2020,0.0744,42376.0215,Basic service
+GBR,United Kingdom of Great Britain and Northern Ireland,total,Drinking water,2020,0.17752,120512.24747,Basic service
+GBR,United Kingdom of Great Britain and Northern Ireland,total,Sanitation,2020,0.72048,489103.10305,Limited service
+GBR,United Kingdom of Great Britain and Northern Ireland,rural,Sanitation,2020,0.30023,32807.4881,Limited service
+GBR,United Kingdom of Great Britain and Northern Ireland,urban,Sanitation,2020,0.8011,456295.62772,Limited service
+GBR,United Kingdom of Great Britain and Northern Ireland,total,Drinking water,2020,0,0,Limited service
+GBR,United Kingdom of Great Britain and Northern Ireland,rural,Drinking water,2020,0,0,Limited service
+GBR,United Kingdom of Great Britain and Northern Ireland,urban,Drinking water,2020,0,0,Limited service
+GBR,United Kingdom of Great Britain and Northern Ireland,total,Sanitation,2020,0,0,Open defecation
+GBR,United Kingdom of Great Britain and Northern Ireland,rural,Sanitation,2020,0,0,Open defecation
+GBR,United Kingdom of Great Britain and Northern Ireland,urban,Sanitation,2020,0,0,Open defecation
+GBR,United Kingdom of Great Britain and Northern Ireland,total,Sanitation,2020,98.09506,66592818.33088,Safely managed service
+GBR,United Kingdom of Great Britain and Northern Ireland,rural,Sanitation,2020,93.57627,10225649.30452,Safely managed service
+GBR,United Kingdom of Great Britain and Northern Ireland,urban,Sanitation,2020,98.962,56367170.95362,Safely managed service
+GBR,United Kingdom of Great Britain and Northern Ireland,total,Drinking water,2020,99.82248,67765494.77633,Safely managed service
+GBR,United Kingdom of Great Britain and Northern Ireland,total,Drinking water,2020,0,0,Surface water
+GBR,United Kingdom of Great Britain and Northern Ireland,rural,Drinking water,2020,0,0,Surface water
+GBR,United Kingdom of Great Britain and Northern Ireland,urban,Drinking water,2020,0,0,Surface water
+GBR,United Kingdom of Great Britain and Northern Ireland,total,Sanitation,2020,0.17256,117145.49318,Unimproved
+GBR,United Kingdom of Great Britain and Northern Ireland,rural,Sanitation,2020,0.225,24587.12025,Unimproved
+GBR,United Kingdom of Great Britain and Northern Ireland,urban,Sanitation,2020,0.1625,92557.4,Unimproved
+GBR,United Kingdom of Great Britain and Northern Ireland,total,Drinking water,2020,0,0.97756,Unimproved
+GBR,United Kingdom of Great Britain and Northern Ireland,rural,Drinking water,2020,0,0,Unimproved
+GBR,United Kingdom of Great Britain and Northern Ireland,urban,Drinking water,2020,0,0,Unimproved
